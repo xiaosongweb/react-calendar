@@ -1,6 +1,6 @@
 {
-    "name": "@xiaosong/react-calendar",
-    "version": "0.0.1",
+    "name": "react-calendar-ui",
+    "version": "0.0.2",
     "description": "react-calendar",
     "main": "lib/index.js",
     "scripts": {

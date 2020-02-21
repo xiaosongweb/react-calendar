@@ -1,6 +1,11 @@
 /*** examples/src/app.js ***/
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Calendar from '../../src'
+import App from "./app";
 
-ReactDOM.render(<Calendar></Calendar>, document.getElementById('root'))
+ReactDOM.render(
+    <App></App>
+    ,
+    document.getElementById('root')
+)
+
